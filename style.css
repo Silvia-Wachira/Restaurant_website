@@ -1,9 +1,16 @@
-.nav{
-    display: flex;
-    justify-content: space-between;
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
-.left-navbar {
-    background-color: aquamarine;
-    height: auto;
+.hero{
+    width: 80%;
+    margin: auto;
+}
+
+.navbar{
+    margin: 30px auto;
+    display: flex;
+    align-items: center;
 }
