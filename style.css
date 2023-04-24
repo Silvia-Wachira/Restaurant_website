@@ -64,3 +64,26 @@
     background-color: #3e7bbe;
     color: white;
 }
+
+.footer {
+    background-color: #eaecee;
+    height: 300px;
+}
+
+.footer-icons {
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+
+}
+
+.quick-links {
+    justify-content: space-between;
+    justify-content: space-around;
+}
+
+.footer-btn {
+    border-radius: 1px;
+    height: 40px;
+    width: 90px;
+}
