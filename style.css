@@ -5,6 +5,7 @@
 }
 #heading {
     margin-left: 500px;
+    font-weight: lighter;
 }
 
 .navbar{
@@ -27,7 +28,14 @@
     justify-content: center;
     margin-left: 400px;
 }
+
+.paragraph {
+    font-size: 30px;
+    margin-top: 70px;
+    /* align-items: center; */
+    margin-left: 200px;
+}
+
 .imgdiv {
-    /* justify-content: center; */
-    
+    justify-content: space-around;
 }
