@@ -52,7 +52,15 @@
     font-weight: lighter;
     margin-top: 30px;
     margin-bottom: 40px;
-
     margin-left: 200px;
 
+}
+
+.btn {
+    border-radius: 1px;
+    height: 40px;
+    width: 90px;
+    margin-left: 200px;
+    background-color: #3e7bbe;
+    color: white;
 }
