@@ -7,10 +7,11 @@
 #heading {
     margin-left: 500px;
     font-weight: lighter;
+    color: #1a1c1e;
 }
 
 .navbar{
-    margin: 30px auto;
+    /* margin: 30px auto; */
 }
 #home {
     font-weight: bold;
@@ -19,11 +20,12 @@
     display: flex;
     justify-content: space-between;
     margin-top: 50px;
+    list-style: none;
+    align-content: center;
 }
 .img {
     border-radius: 8px;
-    /* width: 1000px; */
-    /* height: 20;  */
+ 
     object-fit: contain;
     transform: scaleX(-1);
     justify-content: center;
