@@ -11,6 +11,10 @@
 
 .navbar{
     margin: 30px auto;
+}
+#home {
+    font-weight: bold;
+}
+.links {
     display: flex;
-    align-items: center;
 }
