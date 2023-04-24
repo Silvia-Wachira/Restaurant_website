@@ -1,6 +1,7 @@
 *{
     margin: 0;
     padding: 0;
+    
     font-family: Arial, Helvetica, sans-serif;
 }
 #heading {
@@ -45,6 +46,7 @@
     margin-top: 70px;
     margin-left: 200px;
     margin-bottom: 70px;
+    color: #6a6c6e;
 }
 
 #catering {
@@ -53,6 +55,7 @@
     margin-top: 30px;
     margin-bottom: 40px;
     margin-left: 200px;
+    color: #6a6c6e
 
 }
 
@@ -80,10 +83,37 @@
 .quick-links {
     justify-content: space-between;
     justify-content: space-around;
+    margin-left: 250px;
+    margin-top: 70px;
+}
+
+.icons {
+    margin-left: 250px;
+    margin-top: 70px;
 }
 
 .footer-btn {
     border-radius: 1px;
     height: 40px;
     width: 90px;
+    border: none;
+    background-color: #fff;
+    justify-content: space-around;
+    margin-top: 30px;
+}
+
+.f-paragraph {
+    margin-top: 70px;
+    margin-left: 200px;
+    color: #8b8c93;
+    font-size: 15px;
+
+}
+
+#p-quick {
+    color: #8b8c93;
+}
+#p-follow {
+    color: #8b8c93;
+
 }
