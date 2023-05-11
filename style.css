@@ -26,16 +26,20 @@
     margin-top: 30px;
     color: #6a6c6e;
 }
-.img {
+/* .img {
     border-radius: 8px;
- 
     object-fit: contain;
     transform: scaleX(-1);
     justify-content: center;
     margin-left: 400px;
     margin-top: 30px;
-}
+} */
 
+.card {
+    margin-left: 400px;
+    margin-top: 30px;
+    width: 50%;
+}
 .paragraph {
     font-size: 30px;
     margin-top: 70px;
