@@ -26,6 +26,11 @@
     margin-top: 30px;
     color: #6a6c6e;
 }
+
+#video {
+    width: 50%;
+    height: 50%;
+}
 /* .img {
     border-radius: 8px;
     object-fit: contain;
