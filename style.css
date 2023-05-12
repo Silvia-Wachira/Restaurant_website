@@ -31,14 +31,15 @@
     width: 50%;
     height: 50%;
 }
-/* .img {
-    border-radius: 8px;
+.img {
+    /* border-radius: 8px; */
     object-fit: contain;
     transform: scaleX(-1);
     justify-content: center;
-    margin-left: 400px;
-    margin-top: 30px;
-} */
+    /* margin-left: 400px; */
+    /* margin-top: 30px; */
+    width: 100%;
+}
 
 .card {
     margin-left: 400px;
