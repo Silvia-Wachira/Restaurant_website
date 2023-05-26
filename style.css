@@ -42,8 +42,21 @@
 
 .card-image {
     background-color: aqua;
-    height: 150px;
+    height: 250px;
     margin-bottom: 15px;
+    background-size: cover;
+}
+
+.car-1 {
+    background-image: url(https://images.pexels.com/photos/2662875/pexels-photo-2662875.jpeg?auto=compress&cs=tinysrgb&w=600);
+}
+
+.car-2 {
+    background-image: url(https://images.pexels.com/photos/541216/pexels-photo-541216.jpeg?auto=compress&cs=tinysrgb&w=600);
+}
+
+.car-3 {
+    background-image: url(https://images.pexels.com/photos/1673876/pexels-photo-1673876.jpeg?auto=compress&cs=tinysrgb&w=600);
 }
 
 .paragraph {
