@@ -41,13 +41,10 @@
 } */
 
 
-.img-div {
-    background-size: cover;
-}
-
 
 .img {
-    background-color: black;
+     /* width:1300px;  
+    height: 600px;     */
 }
 .card {
     /* margin-left: 400px;
