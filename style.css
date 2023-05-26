@@ -31,12 +31,13 @@
 .container {
     display: flex;
     justify-content: center;
+    margin-top: 50px;
 }
 
 .card {
     background: white;
     width: 270px;
-    height: 400px;
+    height: 500px;
     margin: 10px;
 }
 
@@ -65,9 +66,6 @@
     /* align-items: center; */
     margin-left: 200px;
 }
-
-
-
 
 .paragraph2 {
     margin-top: 70px;
