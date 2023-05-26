@@ -28,49 +28,23 @@
     color: #6a6c6e;
 }
 
-/* #video {
-    width: 50%;
-    height: 50%;
-} */
-/* .img {
-    object-fit: contain;
-    transform: scaleX(-1);
+.container {
+    display: flex;
     justify-content: center;
-    max-width: 100%;
-    height: 500px;
-} */
-
-
-
-.img {
-     /* width:1300px;  
-    height: 600px;     */
 }
+
 .card {
-    /* margin-left: 400px;
-    margin-top: 30px;
-    width: 5px;
-    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
-    transition: 0.3s; */
-
-    width: 30%;
-	max-width: 30%;
-	background-color: #FAFAFA;
-	margin: auto;
-	text-align: center;
-	justify-content: center;
-	display: block;
-	height: 300px;
-	padding-right: 50px;
-	padding-bottom: 25px;
-	padding-top: 25px;
+    background: white;
+    width: 270px;
+    height: 400px;
+    margin: 10px;
 }
 
-
-
-.card:hover {
-    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
-  }
+.card-image {
+    background-color: aqua;
+    height: 150px;
+    margin-bottom: 15px;
+}
 
 .paragraph {
     font-size: 30px;
@@ -79,9 +53,7 @@
     margin-left: 200px;
 }
 
-.imgdiv {
-    justify-content: space-around;
-}
+
 
 
 .paragraph2 {
