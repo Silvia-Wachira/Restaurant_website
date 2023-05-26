@@ -60,6 +60,18 @@
     background-image: url(https://images.pexels.com/photos/1673876/pexels-photo-1673876.jpeg?auto=compress&cs=tinysrgb&w=600);
 }
 
+.car-4 {
+    background-image: url(https://images.pexels.com/photos/5848496/pexels-photo-5848496.jpeg?auto=compress&cs=tinysrgb&w=600);
+}
+
+.car-5 {
+    background-image: url(https://images.pexels.com/photos/209540/pexels-photo-209540.jpeg?auto=compress&cs=tinysrgb&w=300);
+}
+
+.car-6 {
+    background-image: url(https://media.istockphoto.com/id/1204631540/photo/african-woman-showing-her-dish.jpg?b=1&s=612x612&w=0&k=20&c=CNt6qnggqQ3-jr1gWHzZlRMPMuhrV2mfvopIWcNraB0=);
+}
+
 .paragraph {
     font-size: 30px;
     margin-top: 70px;
