@@ -6,6 +6,8 @@
 #heading {
     position: fixed;
     display: flex;
+    padding: 1rem 7%;
+    align-items: center;
     margin-left: 500px;
     font-weight:lighter;
     font-size: 40px;
