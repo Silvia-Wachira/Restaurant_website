@@ -6,6 +6,7 @@
     outline: none; border: none;
     text-transform: capitalize;
     transition: all .2s linear;
+    font-family: "Tajawal";
 }
 #heading {
     position: fixed;
@@ -14,7 +15,8 @@
     align-items: center;
     z-index: 1000;
     box-shadow: var(--box-shadow);
-    margin-left: 500px;
+    margin-left: 400px;
+    font-family: "Fasthand";
     font-weight:lighter;
     font-size: 40px;
     color: #1a1c1e;
@@ -24,11 +26,6 @@
 .navbar {
     background-color: pink;
     height: 5rem;
-}
-#home {
-    font-weight: bold;
-}
-.links {
     display: flex;
     justify-content: space-evenly;
     margin-top: 50px;
@@ -37,6 +34,18 @@
     margin-top: 30px;
     color: #6a6c6e;
 }
+#home {
+    font-weight: bold;
+}
+/* .links {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 50px;
+    list-style: none;
+    align-content: center;
+    margin-top: 30px;
+    color: #6a6c6e;
+} */
 
 
 .container {
