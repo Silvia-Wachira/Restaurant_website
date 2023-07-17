@@ -34,11 +34,34 @@
     margin-top: 30px;
     color: #6a6c6e;
 }
+
 #home {
-    font-weight: bold;
+    /* font-weight: bold; */
 }
 
+.home {
+    display: flex;
+    /* flex-wrap: wrap; */
+    min-height: 100vh;
+    align-items: center;
+    background: url(https://images.pexels.com/photos/1199956/pexels-photo-1199956.jpeg?auto=compress&cs=tinysrgb&w=600) no-repeat;
+    background-size: cover;
+    background-position: 50% 50%;
+}
+.home .content {
+    flex: 1 1 40rem;
+    color: white;
+}
 
+#name {
+    background-color: #6cd80e;
+    color: #fff;
+}
+
+#email {
+    background-color: #6cd80e;
+    color: #fff;
+}
 
 .container {
     display: flex;
@@ -84,6 +107,15 @@
 
 .car-6 {
     background-image: url(https://media.istockphoto.com/id/1204631540/photo/african-woman-showing-her-dish.jpg?b=1&s=612x612&w=0&k=20&c=CNt6qnggqQ3-jr1gWHzZlRMPMuhrV2mfvopIWcNraB0=);
+}
+.car-7 {
+    background-image: url(https://images.pexels.com/photos/9869646/pexels-photo-9869646.jpeg?auto=compress&cs=tinysrgb&w=600);
+
+}.car-8 {
+    background-image: url(https://images.pexels.com/photos/11506216/pexels-photo-11506216.jpeg?auto=compress&cs=tinysrgb&w=600);
+
+}.car-9 {
+    background-image: url(https://media.istockphoto.com/id/936007370/photo/the-potraits-of-young-southeast-asia-man-at-the-rooftop.jpg?b=1&s=612x612&w=0&k=20&c=v-FcIBYxNhaWwZ3h9Sk1eyq5E4GH1brNcp1G2s0TF3Q=);
 }
 
 .card-btn {
