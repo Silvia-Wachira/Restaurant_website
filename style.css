@@ -53,6 +53,15 @@
     color: white;
 }
 
+.sub-heading {
+    font-size: 40px;
+    margin-left: 440px;
+    margin-top: 30px;
+}
+
+.special {
+    color: orangered;
+}
 #name {
     background-color: #6cd80e;
     color: #fff;
@@ -77,6 +86,22 @@
 }
 
 .card-image {
+    background-color: aqua;
+    height: 350px;
+    margin-bottom: 15px;
+    background-size: cover;
+    border-radius: 10px;
+
+}
+
+.card-1 {
+    background: white;
+    width: 270px;
+    height: 500px;
+    margin: 10px;
+}
+
+.card-image-1 {
     background-color: aqua;
     height: 350px;
     margin-bottom: 15px;
