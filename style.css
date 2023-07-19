@@ -16,6 +16,7 @@
     z-index: 1000;
     box-shadow: var(--box-shadow);
     margin-left: 400px;
+    margin-top: 25px;
     font-family: "Fasthand";
     font-weight:lighter;
     font-size: 40px;
@@ -24,15 +25,16 @@
 }
 
 .navbar {
-    background-color: pink;
-    height: 5rem;
+    background-color: orangered;
+    height: 6rem;
     display: flex;
     justify-content: space-evenly;
     margin-top: 50px;
     list-style: none;
     align-content: center;
+    align-items: center;
     margin-top: 30px;
-    color: #6a6c6e;
+    color: white;
 }
 
 #home {
@@ -63,16 +65,22 @@
     color: orangered;
 }
 #name {
-    background-color: #6cd80e;
+    background-color: orangered;
     color: #fff;
 }
 
 #email {
-    background-color: #6cd80e;
+    background-color: orangered;
     color: #fff;
 }
 
-.container {
+.container-1 {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.container-2 {
     display: flex;
     justify-content: center;
     margin-top: 50px;
@@ -148,7 +156,7 @@
 }
 
 .card-btn {
-background-color: yellowgreen;
+background-color: orangered;
 border-radius: 5px ;
 color: white;
 border: none;
@@ -187,20 +195,28 @@ margin-left: 10px;
     height: 40px;
     width: 90px;
     margin-left: 200px;
-    background-color: yellowgreen;
+    background-color: orangered;
     color: white;
 }
 
 .footer {
     /* background-color: #eaecee; */
     height: 15rem;
-    background-color: pink;
+    margin-top: 70px;
+    background-color:rgb(251, 70, 10);
+    
+}
+
+.comment {
+    /* display: block; */
+    flex-direction: column;
 }
 
 .footer-icons {
-    display: flex;
+    display: inline-block;
     justify-content: center;
     justify-content: space-between;
+    justify-content: space-evenly;
 
 }
 
@@ -230,15 +246,19 @@ margin-left: 10px;
 .f-paragraph {
     margin-top: 70px;
     margin-left: 200px;
-    color: #8b8c93;
+    color: white;
     font-size: 15px;
 
 }
 
 #p-quick {
-    color: #8b8c93;
+    color: white;
 }
 #p-follow {
-    color: #8b8c93;
+    color: white;
 
 }
+
+/* #reviews-container {
+    background-color: #333;
+} */
