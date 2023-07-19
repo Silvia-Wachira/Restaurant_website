@@ -201,7 +201,7 @@ margin-left: 10px;
 
 .footer {
     /* background-color: #eaecee; */
-    height: 15rem;
+    height: 25rem;
     margin-top: 70px;
     background-color:rgb(251, 70, 10);
     
@@ -209,14 +209,28 @@ margin-left: 10px;
 
 .comment {
     /* display: block; */
-    flex-direction: column;
+    /* flex-direction: column; */
+}
+
+.footer-card {
+    border-radius: 1px;
+    height: 40px;
+    width: 90px;
+    margin-left: 200px;
+    background-color: white;
+    color: black;
+}
+
+.form-review {
+
 }
 
 .footer-icons {
-    display: inline-block;
+    /* display: inline-block; */
     justify-content: center;
     justify-content: space-between;
-    justify-content: space-evenly;
+    margin-top: 150px;
+    /* justify-content: space-evenly; */
 
 }
 
@@ -231,6 +245,10 @@ margin-left: 10px;
     margin-left: 250px;
     margin-top: 70px;
 }
+#form-btn {
+    background-color: #fff;
+    color: orangered;
+}
 
 .footer-btn {
     border-radius: 1px;
@@ -244,7 +262,7 @@ margin-left: 10px;
 }
 
 .f-paragraph {
-    margin-top: 70px;
+    margin-top: 170px;
     margin-left: 200px;
     color: white;
     font-size: 15px;
